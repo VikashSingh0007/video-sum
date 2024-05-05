@@ -1,0 +1,2 @@
+epoch,Batch_size,lr,runtime,loss,F_measure_k
+0,40,0.001,0:24:04,0.7021979689598083,0.6634086554396198
